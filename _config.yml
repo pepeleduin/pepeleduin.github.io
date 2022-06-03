@@ -40,7 +40,7 @@ keywords:              []
 logo:                  /assets/img/me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
+author1:
   # Used by `jekyll-feed`:
   name:                Leduin José Cuenca Macas
   email:               pepeleduin@duck.com
@@ -58,12 +58,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Portfolio
+    url:               /example/
+  - title:             Motivations
+    url:               /docs/
+  - title:             Blog
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
