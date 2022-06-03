@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -52,7 +52,7 @@ author:
     email:             pepeleduin@duck.com
     github:            pepeleduin
     linkedin:          pepeleduin
-    twitter:           <pepeleduin>
+    twitter:           pepeleduin
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -76,7 +76,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -359,8 +359,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            pepeleduin
 
 # Used for facebook open graph
 # facebook:
