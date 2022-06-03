@@ -22,9 +22,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:           pepeleduin
-    github:            pepeleduin
     email:             pepeleduin@duck
+    github:            pepeleduin
+    linkedin:          pepeleduin
+    twitter:           pepeleduin
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -53,7 +54,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:          pepeleduin
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
