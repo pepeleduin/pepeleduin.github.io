@@ -60,10 +60,10 @@ author1:
 menu:
   - title:             About
     url:               /about/
-  - title:             Portfolio
-    url:               /example/
-  - title:             Motivations
-    url:               /docs/
+  # - title:             Portfolio
+  #   url:               /example/
+  # - title:             Motivations
+  #   url:               /docs/
   - title:             Blog
     url:               /docs/
 
