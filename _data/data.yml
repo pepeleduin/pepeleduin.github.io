@@ -13,22 +13,22 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: hello@webjeda.com
-  phone: 012 345 6789
-  timezone: America/Cancun Timezone
+  email: pepeleduin@duck.com
+  phone:
+  timezone: Europe/Madrid
   citizenship:
-  website: blog.webjeda.com #do not add http://
-  linkedin: alandoe
-  xing: alandoe
-  github: sharu725
-  telegram: # add your nickname without '@' sign
-  gitlab:
+  website: pepeleduin.github.io #do not add http://
+  linkedin: pepeleduin
+  xing:
+  github: pepeleduin
+  telegram: "@pepeleduin"
+  gitlab: pepeleduin
   bitbucket:
-  twitter: "@webjeda"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  twitter: "@pepeleduin"
+  stack-overflow: 17786075/pepeleduin
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: https://drive.google.com/file/d/1dXVYlMGG3QT34R99mPPLqtxi09mFdnUI/view?usp=sharing
 
   languages:
     title: Languages
