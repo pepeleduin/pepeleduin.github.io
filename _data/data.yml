@@ -42,13 +42,16 @@ sidebar:
   interests:
     title: Interests
     info:
-      - item: Climbing
+      - item: GNU/Linux
         link:
 
-      - item: Snowboarding
+      - item: Politics
         link:
 
-      - item: Cooking
+      - item: Graphic Design
+        link:
+
+      - item: Running
         link:
 
 career-profile:
