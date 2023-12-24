@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Leduin Cuenca
@@ -66,28 +66,18 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Software & Systems
+      university: Universidad Politécnica de Madrid
+      time: 2023 - 2024
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Master's degree covered by the Bicentenario Scholarship of Carolina Foundation.
+    - degree: BSc in Information Technology
+      university: Yachay Tech University
+      time: 2014 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Thesis: [Simulation of 2D Collision Avoidance Algorithms using Voronoi Diagrams](https://repositorio.yachaytech.edu.ec/handle/123456789/478)
+        - Advisor: Israel Pineda, PhD
+        - Honors: Cum Laude
 
 experiences:
   title: Experiences
