@@ -68,35 +68,27 @@ education:
   info:
     - degree: MSc in Software & Systems
       university: Universidad Politécnica de Madrid
-      time: 2023 - 2024
+      time: sep 2023 - jul 2024
       details: |
         Master's degree covered by the Bicentenario Scholarship of Carolina Foundation.
     - degree: BSc in Information Technology
       university: Yachay Tech University
-      time: 2014 - 2021
+      time: apr 2015 - jan 2022
       details: |
         - Thesis: [Simulation of 2D Collision Avoidance Algorithms using Voronoi Diagrams](https://repositorio.yachaytech.edu.ec/handle/123456789/478)
         - Advisor: Israel Pineda, PhD
         - Honors: Cum Laude
 
 experiences:
-  title: Experiences
+  title: Working Experiences
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Network Engineer
+      time: jan 2023 - jul 2023
+      company: Conéctate | Alamor, Ecuador
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Network administration and software development for an ISP company in the province of Loja
+          - **Supervisor**: Daniel Macas
+          - **Main skills**: MikroTik, WinBox, Spreadsheets
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
