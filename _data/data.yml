@@ -91,7 +91,7 @@ experiences:
           - **Main skills**: MikroTik, WinBox, Spreadsheets
     - role: Information Security Auditor
       time: jul 2022 - sep 2023
-      company: noggalito | Loja, Ecuador
+      company: noggalito | Loja, Ecuador (Remote)
       details: |
         Assistance with security audits using the Safetag professional framework,
         which adapts traditional penetration testing and risk assessment methodologies
@@ -99,17 +99,14 @@ experiences:
         or operating in the developing world.
           - **Supervisor**: Carlos Correa
           - **Main skills**: Bash, Safetag, Kali Linux, FLOSS
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Junior Full Stack Software Engineer
+      time: jul 2022 - nov 2022
+      company: Wiibiq | Quito, Ecuador (Remote)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Development of inventory and process software in the area of IoT
+        and Web for medium and large national and international industries.
+          - **Supervisor**: Marcelo Barba
+          - **Main skills**: Python, JavaScript, MySQL, Git, Scrum
 
 certifications:
   title: Certifications
