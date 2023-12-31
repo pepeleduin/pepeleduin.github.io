@@ -75,9 +75,9 @@ education:
       university: Yachay Tech University
       time: apr 2015 - jan 2022
       details: |
-        - Thesis: [Simulation of 2D Collision Avoidance Algorithms using Voronoi Diagrams](https://repositorio.yachaytech.edu.ec/handle/123456789/478)
-        - Advisor: Israel Pineda, PhD
-        - Honors: Cum Laude
+        - **Thesis**: [Simulation of 2D Collision Avoidance Algorithms using Voronoi Diagrams](https://repositorio.yachaytech.edu.ec/handle/123456789/478)
+        - **Advisor**: Israel Pineda, PhD
+        - **Honors**: Cum Laude
 
 experiences:
   title: Working Experiences
@@ -107,6 +107,15 @@ experiences:
         and Web for medium and large national and international industries.
           - **Supervisor**: Marcelo Barba
           - **Main skills**: Python, JavaScript, MySQL, Git, Scrum
+    - role: Software Engineer
+      time: apr 2022 - jun 2022
+      company: Mobia Public Safety Solutions | Santiago, Chile (Remote)
+      details: |
+        Data preparation, training, deployment and testing of computer vision programs
+        for license plate detection.
+          - **Supervisor**: Oscar Guarnizo
+          - **Main skills**: Python, DeepStream SDK, Docker, TensorFlow, WSL
+          - **Repository**: [Automatic License Plate Recognition (NVIDIA TAO + DeepStream Application + Python Bindings)](https://github.com/ZosoV/mobia-project)
 
 certifications:
   title: Certifications
