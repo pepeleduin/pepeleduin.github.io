@@ -116,6 +116,15 @@ experiences:
           - **Supervisor**: Oscar Guarnizo
           - **Main skills**: Python, DeepStream SDK, Docker, TensorFlow, WSL
           - **Repository**: [Automatic License Plate Recognition (NVIDIA TAO + DeepStream Application + Python Bindings)](https://github.com/ZosoV/mobia-project)
+    - role: Intelligent Video Analysis Assistant
+      time: oct 2021
+      company: Digevo - omIA | Santiago, Chile (Remote)
+      details: |
+        DeepStream SDK configuration file management for security cameras,
+        as well as concurrent management of Linux machines and performance monitoring
+        of their GPUs.
+          - **Supervisor**: Eddy Andrade
+          - **Main skills**: GNU/Linux, DeepStream SDK, AnyDesk
 
 certifications:
   title: Certifications
