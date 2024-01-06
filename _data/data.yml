@@ -125,7 +125,6 @@ experiences:
         of their GPUs.
           - **Supervisor**: Eddy Andrade
           - **Main skills**: GNU/Linux, DeepStream SDK, AnyDesk
-
     - role: Technical Support Intern
       time: may 2021 - jun 2021
       company: DEUNA | Palo Alto, EEUU (Remote)
@@ -133,6 +132,15 @@ experiences:
         DevOps-Customer Support.
           - **Supervisor**: José Seraquive
           - **Main skills**: pgAdmin, Airtable, Notion
+    - role: Intern/Training Assistant
+      time: jun 2020 - sep 2020
+      company: Public Research Company CENTRO | Urcuquí, Ecuador (Remote)
+      details: |
+        Planning of training in information technologies for secondary level academic units, clients of the Public Research Company CENTRO.
+        The training strengthened skills of teachers in the use of virtual platforms, communication and videoconferencing,
+        preferably free license, given the change of study modality at the national level due to the health contingency.
+          - **Supervisor**: Alexis Andrade
+          - **Main skills**: FLOSS
 
 certifications:
   title: Certifications
