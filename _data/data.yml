@@ -142,6 +142,27 @@ experiences:
           - **Supervisor**: Alexis Andrade
           - **Main skills**: FLOSS
 
+# projects:
+# # title: Research Experience
+# intro: >
+# # # The Software and System Master is focussed on research. So I am improving my research skills during the program.
+# # # Also, I have the following research experience:
+# # assignments:
+# # # - title: Research Intern
+# # # link: "#hook"
+# # # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+# experiences:
+# title:
+# info:
+# - role:
+# # time: mar 2021 - jul 2021
+# # company: National Institute of Public Health Research | Guayaquil, Ecuador (Remote)
+# details: |
+# Computer analysis of data extracted from the laboratory to sequence the SARS-CoV-2 genome.
+# - **Supervisor**: Leandro Patiño, Ph.D
+# - **Main skills**: Bash, MinION, nanopolish, minimap2, MUMmer
+
 certifications:
   title: Certifications
   list:
