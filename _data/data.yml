@@ -223,26 +223,14 @@ oss:
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Publication
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Conference Paper
   papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Collision Avoidance Simulation Using Voronoi Diagrams in a Centralized System of Holonomic Multi-agents
+      link: "https://link.springer.com/chapter/10.1007/978-3-031-18272-3_2"
+      authors: Leduin José Cuenca Macas & Israel Pineda
+      conference: Conference on Information and Communication Technologies of Ecuador, 2022
 
 skills:
   title: Skills &amp; Proficiency
