@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -192,7 +192,7 @@ p {
   }
   .job-title,
   .degree,
-  .cert-title{
+  .cert-title {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -284,4 +284,3 @@ p {
     color: $heart;
   }
 }
-
