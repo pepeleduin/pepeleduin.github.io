@@ -171,8 +171,8 @@ certifications:
       end: 2026
       organization: MikroTik
       credentialid: 2302NA4263
-      credentialurl: https://drive.google.com/file/d/13u1SnS6B8_595h_iPSKjAlw1Ayh9WKpK/view?usp=sharing
-      credentialname: MikroTik Certified Network Associate
+      credentialurl: drive.google.com/file/d/13u1SnS6B8_595h_iPSKjAlw1Ayh9WKpK/view?usp=sharing
+      credentialname: MikroTik CNA
       details: |
         Entry level as a specialist in MikroTik technologies.
 
