@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Leduin Cuenca
-  tagline: Software and Systems Master Student
+  tagline: Quantum Communication Researcher
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -59,18 +59,27 @@ career-profile:
   summary: |
     I have a strong academic background in computer science.
     From 2021 to the present I have held multidisciplinary positions in the technology area.
-    Actually, I am Software & Systems Master Student at Universidad Politécnica de Madrid, supported by Fundación Carolina.
+    Actually, I am Software, Systems and Computation PhD Student and Researcher at Universidad Politécnica de Madrid.
     I am a free/libre and open source software (FLOSS) enthusiast, participating in the LoxaLibre community and the Technology Services Cooperative Libretec.
     I consider technology as an indispensable tool within the social dynamics, being a fundamental factor in the evolutionary progress of humanity.
     I am from Alamor, a small town in southern Ecuador.
 education:
   title: Education
   info:
+    - degree: PhD in Software, Systems and Computation
+      university: Universidad Politécnica de Madrid
+      time: oct 2024 - jul 2029
+      details: |
+        - **Field**: Quantum Communication
+        - **Tutor**: Juan Pedro Brito
     - degree: MSc in Software & Systems
       university: Universidad Politécnica de Madrid
       time: sep 2023 - jul 2024
       details: |
         Master's degree covered by the Bicentenario Scholarship of Carolina Foundation.
+        - **Final Project**: Optimización del Uso de Material Criptográfico en Redes QKD para su Utilización en Protocolos de Seguridad Clásica
+        - **Tutors**: Juan Pedro Brito and Luis Mengual Galán
+        - **Qualification**: 10/10
     - degree: BSc in Information Technology
       university: Yachay Tech University
       time: apr 2015 - jan 2022
