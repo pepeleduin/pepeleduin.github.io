@@ -91,11 +91,24 @@ education:
 experiences:
   title: Working Experiences
   info:
+    - role: Researcher
+      time: nov 2024 -
+      company: Quantum Information and Computing Research Group - UPM | Pozuelo de Alarcón, España
+      details: |
+        Quantum Communication research focused on the optimization of cryptographical resources in the MADQCI.
+          - **Supervisor**: Juan Pedro Brito
+    - role: Research Engineer
+      time: may 2024 - jun 2024
+      company: IMDEA Networks | Leganés, España
+      details: |
+        Software development assistance for TLS Handshaking analysis.
+          - **Supervisor**: Narseo Vanilla
+          - **Main skills**: Android SDK, Wireshark, Java
     - role: Network Engineer
       time: jan 2023 - jul 2023
       company: Conéctate | Alamor, Ecuador
       details: |
-        Network administration and software development for an ISP company in the province of Loja
+        Network administration and software development for an ISP company in the province of Loja.
           - **Supervisor**: Daniel Macas
           - **Main skills**: MikroTik, WinBox, Spreadsheets
     - role: Information Security Auditor
