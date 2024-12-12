@@ -79,7 +79,6 @@ education:
         Master's degree covered by the Bicentenario Scholarship of Carolina Foundation.
         - **Final Project**: Optimización del Uso de Material Criptográfico en Redes QKD para su Utilización en Protocolos de Seguridad Clásica
         - **Tutors**: Juan Pedro Brito and Luis Mengual Galán
-        - **Qualification**: 10/10
     - degree: BSc in Information Technology
       university: Yachay Tech University
       time: apr 2015 - jan 2022
@@ -95,7 +94,7 @@ experiences:
       time: nov 2024 -
       company: Quantum Information and Computing Research Group - UPM | Pozuelo de Alarcón, España
       details: |
-        Quantum Communication research focused on the optimization of cryptographical resources in the MADQCI.
+        Quantum Communication research focused on the optimization of cryptographic resources in the MADQCI.
           - **Supervisor**: Juan Pedro Brito
     - role: Research Engineer
       time: may 2024 - jun 2024
